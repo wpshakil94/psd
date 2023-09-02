@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+img{
+    max-width: 100%;
+}
+/* =======================================
+            main-header-css
+========================================== */
+.main-header{
+    background-color: #87509c;
+}
+.nav-link{
+    color: white;
+}
+.main-header .nav-item :hover{
+    color: white;
+    background-color: #643a79;
+    border-radius: 5px;
+}
+.banner h3{
+    font-size: 45px;
+  margin-top: 100px;
+  font-weight: bold;
+}
+.banner button{
+    background-color: #eb7d4b;
+    border-bottom: 2px solid #C86A40;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.banner button:hover{
+    color: white;
+    background-color: #643a79;
+    border-radius: 5px; 
+}
+/* =======================================
+            main-header-css-end
+========================================== */
+
+/* =======================================
+            service-css
+========================================== */
+.service{
+    padding-top: 85px;
+    background-color: #17c2a4;
+}
+.service h5{
+
+  font-size: 42px;
+  font-weight: bolder;
+  color: white;
+}
+.service .container hr{
+    margin: auto;
+    width: 6%;
+    margin-top: 20px;
+  margin-bottom: 20px;
+}
+/* =======================================
+            service-css-end
+========================================== */
+/* =================================
+         meet start
+=================================== */
+.meet{
+    background-color: #e7f1f8;
+}
+.meet h4{
+    font-size: 20px;
+  font-weight: bold;
+  padding-top: 50px;
+}
+.meet .container hr{
+    margin: auto;
+    width: 6%;
+    margin-top: 20px;
+  margin-bottom: 20px;
+}
+.meet a{
+    color: #30BAE7;
+    text-decoration: none;
+}
+/* =================================
+         meet end
+=================================== */
